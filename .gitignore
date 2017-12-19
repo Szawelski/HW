@@ -1,0 +1,7 @@
+#ignorowane pliki
+.idea
+cmake-build-debug/
+*.o
+*.out
+*.c~*.o
+*.out
